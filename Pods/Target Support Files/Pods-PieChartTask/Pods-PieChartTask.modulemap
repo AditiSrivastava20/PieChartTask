@@ -1,0 +1,6 @@
+framework module Pods_PieChartTask {
+  umbrella header "Pods-PieChartTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

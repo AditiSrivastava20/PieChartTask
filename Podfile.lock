@@ -1,0 +1,34 @@
+PODS:
+  - BWWalkthrough (2.1.0)
+  - Charts (3.0.1):
+    - Charts/Core (= 3.0.1)
+  - Charts/Core (3.0.1)
+  - CorePlot (2.2)
+  - Material (2.4.16):
+    - Material/Core (= 2.4.16)
+  - Material/Core (2.4.16)
+  - SigmaSwiftStatistics (5.0.0)
+  - SkyFloatingLabelTextField (2.0.1)
+  - SwiftDate (4.0.12)
+
+DEPENDENCIES:
+  - BWWalkthrough
+  - Charts
+  - CorePlot
+  - Material
+  - SigmaSwiftStatistics
+  - SkyFloatingLabelTextField
+  - SwiftDate
+
+SPEC CHECKSUMS:
+  BWWalkthrough: 188408f55b951725ccfd4faa8dab5c577b57c7a9
+  Charts: 0e84f4418e87dad6a9edde221fba37ebb51d3ba7
+  CorePlot: cbe0c6e14220705e32e06a89c7d6a5a908b7d7d8
+  Material: 84645fb4c9409c3db76bd7c8e1fd00dc4a76c144
+  SigmaSwiftStatistics: a6f4c6dad2ae3015194a5778643da5b9e4d800ce
+  SkyFloatingLabelTextField: 070e749632ffd608d6fd9db3fa488a822524997c
+  SwiftDate: 9a50045abc7b3515ede0fbed94705907279177b5
+
+PODFILE CHECKSUM: 6e78d03dd6d3680e5d1ab503362daa90a5b48fb8
+
+COCOAPODS: 1.2.0
